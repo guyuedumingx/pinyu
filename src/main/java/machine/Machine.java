@@ -36,7 +36,7 @@ class Display  //选择菜单后显示内容 类
 {
     public void myDisplay(int num) //方法
   {
-    {
+    do {
     switch(num)
     {
       case 1: //购买
